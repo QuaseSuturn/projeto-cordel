@@ -59,11 +59,11 @@ section {
     padding-left: 30px;
     line-height: 2em;
     font-size: 3.5vw;
-    font: normal normal 3.5em var(--fonte3);
 }
 
 section > p{
     padding-bottom: 2em;
+    font: normal normal 3.5em var(--fonte3);
 }
 
 section.prosa{
